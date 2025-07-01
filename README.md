@@ -1,5 +1,2 @@
 # ConnectomeAnalysisTool
-A connectome analysis tool based on NeuNet.
-
-
-We will publish our code soon after the paper is accepted!
+A connectome analysis tool based on [《Building connectome analysis tools with representation learning on neuronal skeleton and circuit topology》](https://www.sciencedirect.com/science/article/pii/S0893608025004836). This article is an extension of NeuNet, so please refer to [the conference paper](https://ojs.aaai.org/index.php/AAAI/article/view/27771) and the corresponding [code](https://github.com/WHUminghui/NeuNet) for detailed methodology. Here, we provide [the MANC dataset](https://drive.google.com/drive/folders/1adpq49VKfUyH7SXh-G5DznlIXsGVj1Eu?usp=drive_link) and the plotting code for Figure 13 of the paper.
